@@ -1,5 +1,5 @@
-### NAME : 
-### REGISTER NO : 
+### NAME : GOWRISANKAR P
+### REGISTER NO : 212222230041
 ### EX. NO.3
 ### DATE:
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
